@@ -45,5 +45,7 @@ public class Main {
         auctionMediator.closeAuction("A2");
 
 
+
+
     }
 }
